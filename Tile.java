@@ -1,5 +1,3 @@
-// Id: 209493683
-// Name : Ori Paso
 
 package test;
 
